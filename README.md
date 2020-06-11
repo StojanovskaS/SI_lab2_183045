@@ -1,8 +1,7 @@
 	Група на Код: 3
 
 	Control Graph Flow за функција која проверува дали лозинката на корисникот е валидна 
-	
-	![control_flow_graph_183045](https://user-images.githubusercontent.com/62623264/84385191-6fd53a80-abef-11ea-9f63-209852c871ce.PNG)
+![control_flow_graph_183045](https://user-images.githubusercontent.com/62623264/84385191-6fd53a80-abef-11ea-9f63-209852c871ce.PNG)
 
 
 Овој граф го добив така што:
@@ -48,7 +47,10 @@
 
 6.User(SandraStojanovska,1Lalabla*,stojanovska@yahoo.com),allUser=[User1,User2] Влегува во:1,2 3,5,7,8,9,11,13,14,15.1,15.2,15.3,16,17,18,19,20,21,22,23,25,26.
 
-Во прилог ја имате csv датотеката во која е означена целата постапка .
+Во прилог ја имате табелата за тест случаите поставена како SI_lab2_Every_Statement_table.xlsx датотеката во која е означена целата постапка ,а во прилог и сликите од истата.
+
+![SILab2_tabela_Del1](https://user-images.githubusercontent.com/62623264/84385361-bc207a80-abef-11ea-8697-ae0ec40ab87d.PNG)
+![SILab2_tabela_del2](https://user-images.githubusercontent.com/62623264/84385375-c04c9800-abef-11ea-8d10-1c162c0aefcf.PNG)
 
 	Тест случаи според критериумот Multiple Condition се наоѓаат така што ги разгледувам гранките кои поврзуваат јазол услов со јазол исход .
 
